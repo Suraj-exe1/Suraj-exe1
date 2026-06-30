@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Pandit&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Software%20Engineer%20%7C%20Building%20Scalable%20Systems&descAlignY=52&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Suraj%20Pandit&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%7C%20Building%20Scalable%20Systems&descAlignY=52&descSize=18"/>
 
 <!-- Animated Text -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Software+Engineering+%7C+Full-Stack+Development+;Building+Scalable+Solutions;Turning+Ideas+into+Production+Code" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Data+Engineering+%7C+Full-Stack+Development+;Building+Scalable+Solutions;Turning+Ideas+into+Production+Code" alt="Typing SVG" /></a>
 
 </div>
 
