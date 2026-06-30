@@ -23,7 +23,7 @@
 
 > _Hey there! 👋 Welcome to my GitHub!_
 >
-> _I'm Suraj — a Software Engineer passionate about building scalable and impactful applications. I specialize in full-stack development, cloud architecture, and creating elegant solutions to complex problems._
+> _I'm Suraj — a Data Scientist passionate about building scalable and impactful applications. I specialize in full-stack development, cloud architecture, and creating elegant solutions to complex problems._
 >
 > _Feel free to explore my repositories, check out my projects, and reach out for collaboration! 🚀_
 >
